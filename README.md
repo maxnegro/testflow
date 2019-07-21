@@ -1,8 +1,6 @@
 # testflow
 test. flow.
 
-complichiamo le cose
-
 hotfix
 poppolo
 
