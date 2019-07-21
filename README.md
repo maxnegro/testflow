@@ -1,6 +1,6 @@
 # testflow
-test. flow.
+Lorem ipsum dolor sit amet
 
-hotfix
+però pippolosamente
 
-1.1.0
+Current version: 1.2.0
